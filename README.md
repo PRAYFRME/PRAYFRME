@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/prayfrme/">
   <img align="left" alt="Mehedi Hasan Tarek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<p> <img src="https://gpvc.arturio.dev/PRAYFRME" alt="prayfrme" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=PRAYFRME&color=brightgreen&style=flat&label=PROFILE+VIEWS" alt="PRAYFRME" /> </p>
 
 <br />
 
@@ -43,4 +43,3 @@ If you like what I do, maybe consider buying me a coffee/Ramen 🥺👉👈
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PRAYFRME&show_icons=true&theme=gotham" alt="PRAYFRME" />
-<p> <img src="https://komarev.com/ghpvc/?username=prayfrme" alt="prayfrme" /> </p>
