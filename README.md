@@ -43,3 +43,4 @@ If you like what I do, maybe consider buying me a coffee/Ramen 🥺👉👈
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PRAYFRME&show_icons=true&theme=gotham" alt="PRAYFRME" />
+<p> <img src="https://komarev.com/ghpvc/?username=prayfrme" alt="prayfrme" /> </p>
