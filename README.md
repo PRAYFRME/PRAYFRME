@@ -9,8 +9,7 @@
 <a href="https://www.linkedin.com/in/prayfrme/">
   <img align="left" alt="Mehedi Hasan Tarek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-<p> <img src="https://komarev.com/ghpvc/?username=prayfrme" alt="prayfrme" /> </p>
+![Profile views](https://gpvc.arturio.dev/PRAYFRME) 
 
 <br />
 
