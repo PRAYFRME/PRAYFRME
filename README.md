@@ -7,9 +7,7 @@
 
 <br />
 
-Hi, I'm Mehedi Hasan Tarek, Cybersecurity and Data Science Enthusiast.
-
-I have knowledge in Data Science, Cyber Security, Django Framework, Machine Learning, AI Software Development. Currently, I am doing my Bachelors in Computer Science and Engineering from 🇧🇩. I'm interested in Machine Learning, Data Science and AI related problems. I love to work with new technologies and playing with Data and AI.🤖
+Hi, I'm Mehedi Hasan Tarek, Cybersecurity and Data Science Enthusiast. I have knowledge in Data Science, Cyber Security, Django Framework, Machine Learning. Currently, I am doing my Bachelors in Computer Science and Engineering. I'm interested in Machine Learning, Data Science and AI. I love to work with new technologies and playing with Data and AI.🤖
 
 
 
