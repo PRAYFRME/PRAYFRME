@@ -42,21 +42,12 @@ Consider buying me a coffee/Ramen 🥺 👉👈
 
 
 
+📈 My GitHub Stats
 
-
-## My stats
-
-<!--START_SECTION:waka-->
-```text
-Week: 27 August, 2021 - 04 September, 2021
-
-Other        10 hrs 48 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤   97.12 % 
-CSV          9 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.41 % 
-Git Config   6 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.03 % 
-Text         2 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.44 % 
-```
-<!--END_SECTION:waka-->
-<p align = "center">
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PRAYFRME&show_icons=true&theme=gotham" alt="PRAYFRME" />
+  
+  
+  <p align = "center">
 <img height="200" src="https://github-profile-trophy.vercel.app/?username=PRAYFRME&theme=dracula&row=2&margin-w=5&margin-h=5&count_private=true&title=Commit,Repositories,Followers"/>
 <p/>
 <!--- dracula base : #282a36 font : #ff79c6 -->
@@ -66,13 +57,3 @@ Text         2 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </p> -->
 <br/>
 
-
-
-
-
-
-
-
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PRAYFRME&show_icons=true&theme=gotham" alt="PRAYFRME" />
