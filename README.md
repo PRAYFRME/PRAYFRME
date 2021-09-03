@@ -40,6 +40,8 @@ Consider buying me a coffee/Ramen 🥺 👉👈
 
 ![Metrics](https://metrics.lecoq.io/PRAYFRME?template=classic&base.header=0&base.activity=0&base.community=0&base.metadata=0&languages=1&lines=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=B&achievements.secrets=true&achievements.display=compact&achievements.limit=4&config.timezone=Asia%2FDhaka&config.display=large)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PRAYFRME)](https://github.com/PRAYFRME/github-readme-stats)
+
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
