@@ -41,7 +41,7 @@ Consider buying me a coffee/Ramen 🥺 👉👈
 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PRAYFRME&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PRAYFRME&layout=compact)](https://github.com/PRAYFRME/github-readme-stats)
 
 
 
