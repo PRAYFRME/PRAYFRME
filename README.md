@@ -58,18 +58,13 @@ Consider buying me a coffee or Ramen 🥺 👉👈
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PRAYFRME&show_icons=true&theme=gotham" alt="PRAYFRME" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=PRAYFRME&show_icons=true&theme=gotham" alt="PRAYFRME" />
   
   
 <p align = "center">
 <img height="200" src="https://github-profile-trophy.vercel.app/?username=PRAYFRME&theme=dracula&row=2&margin-w=5&margin-h=5&count_private=true&title=Commit,Repositories,Followers"/>
 <p/>
-<!--- dracula base : #282a36 font : #ff79c6 -->
-<!-- <p align="left">
-<img  height = "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAYFRME&hide=html,makefile,css&bg_color=211e1b&title_color=79740e&text_color=83a598&count_private=true&langs_count=5" />
-<img  height= "200"src="https://github-readme-stats.vercel.app/api?username=PRAYFRME&bg_color=211e1b&title_color=79740e&text_color=83a598&show_icons=true&icon_color=fabd2f&count_private=true" />
-</p> -->
-<br/>
+
 
 [website]: https://linktr.ee/PRAYFRME
 [linkedin]: https://www.linkedin.com/in/prayfrme/
