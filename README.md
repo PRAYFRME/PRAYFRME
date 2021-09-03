@@ -8,7 +8,7 @@
 <br />
 
 
-  Hi, [I'm Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
+  Hi, I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
 - Cybersecurity and Data Science Enthusiast. 
 - I like Data Science, Machine Learning, Cyber Security.
 - I have knowledge about Django Framework. 
