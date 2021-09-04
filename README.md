@@ -1,5 +1,4 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 
   Hi, I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
@@ -28,6 +27,8 @@
 💼 Any freelance work? Do reach, [email](mailto:mhtarek@live.com) 🤗
 
 💬 Ask me about anything, I am happy to help. 😇
+
+<img src="https://github.com/PRAYFRME/PRAYFRME/blob/main/DataScience.png?raw=true" alt="Hello world">
 
 ### Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
