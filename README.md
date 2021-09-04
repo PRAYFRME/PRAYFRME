@@ -70,7 +70,7 @@ Consider buying me a coffee or Ramen 🥺 👉👈
 
 📈 My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=PRAYFRME&show_icons=true&theme=gotham" alt="PRAYFRME" />
+<p align="left"> <img src="https://github-readme-stats-prayfrme.vercel.app/api?username=PRAYFRME&show_icons=true&theme=gotham"alt="PRAYFRME"/>
   
   
 <p align = "center">
