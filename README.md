@@ -7,7 +7,7 @@
 - Working on Software Development.
 - Have knowledge about Django Framework. 
 - Doing Bachelors in Computer Science and Engineering. 
-- Love to work with new technologies and playing with Data and AI.🤖
+- Love to work with new technologies and playing with Data and AI.
 - Hobbies are meeting new people from different countries, listening to music from different languages, watching Anime, reading books.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -83,5 +83,5 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=67306802)
 
-## Total Profile Views:
+## Total Views:
 ![PRAYFRME visitor counter](https://count.getloli.com/get/@PRAYFRME?theme=rule34)
