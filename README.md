@@ -1,25 +1,25 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<p align="center"> 
-  PROFILE VIEWS<br>
-  <img src="https://profile-counter.glitch.me/PRAYFRME/count.svg" />
-</p>
-
 
   Hi, I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
 
 - Cybersecurity and Data Science Enthusiast. 
-- I like Data Science, Machine Learning, Cyber Security, and software development.
+- Working on Software Development.
 - I have knowledge about Django Framework. 
 - Currently, I am doing my Bachelors in Computer Science and Engineering. 
-- I'm interested in Machine Learning, Data Science and AI. 
 - I love to work with new technologies and playing with Data and AI.🤖
 - My hobbies are meeting new people from different countries, listening to music from different languages, watching Anime, reading books.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-### Connect with me:
+
+## Things I am passionate about
+
+- Data Science, Machine Learning, Cyber Security, and AI :robot:
+- Open source :octocat:
+
+## Get in touch :coffee:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <p> <img src="https://komarev.com/ghpvc/?username=PRAYFRME&color=brightgreen&style=flat&label=PROFILE+VIEWS" alt="PRAYFRME" /> </p>
