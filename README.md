@@ -82,8 +82,9 @@ Consider buying me a coffee or Ramen 🥺 👉👈
 [linkedin]: https://www.linkedin.com/in/prayfrme/
 
 
-
-
-###Overall Profile Views:
 ![](https://hit.yhype.me/github/profile?user_id=67306802)
+
+## Total Profile Views:
+
 ![PRAYFRME visitor counter](https://count.getloli.com/get/@PRAYFRME?theme=rule34)
+<br/>
