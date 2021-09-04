@@ -53,7 +53,7 @@
 
 
 
-Consider buying me a coffee or Ramen 🥺 👉👈
+## Consider buying me a coffee ☕ or Ramen 🍜
 
 <a href="https://https://www.buymeacoffee.com/prayfrme" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
