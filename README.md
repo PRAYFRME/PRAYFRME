@@ -66,6 +66,7 @@ Consider buying me a coffee or Ramen 🥺 👉👈
 
 [![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRAYFRME&show_icons=true&count_private=true&include_all_commits=true&icon_color=D10000&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
 [![Tarek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PRAYFRME&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  
