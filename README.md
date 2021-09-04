@@ -1,7 +1,10 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-
+<p align="center"> 
+  PROFILE VIEWS<br>
+  <img src="https://profile-counter.glitch.me/PRAYFRME/count.svg" />
+</p>
 
 
   Hi, I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
@@ -69,6 +72,13 @@ Consider buying me a coffee or Ramen 🥺 👉👈
 <p align = "center">
 <img height="200" src="https://github-profile-trophy.vercel.app/?username=PRAYFRME&theme=dracula&row=2&margin-w=5&margin-h=5&count_private=true&title=Commit,Repositories,Followers"/>
 <p/>
+
+
+
+<!-- Badge Code - Do Not Change The Code -->
+<a class="hitCounter" href="https://visitorshitcounter.com/" target="_blank" title="Hit counter" data-name="99cd2175108d157588c04758296d1cfc|9|ip|1|#ea5050|#ffffff|large|s-hit">Hit Counter</a><script>document.write("<script type='text/javascript' src='https://visitorshitcounter.com/js/hitCounter.js?v="+Date.now()+"'><\/script>");</script>
+<!-- Badge Code End Here -->
+
 
 
 [website]: https://linktr.ee/PRAYFRME
