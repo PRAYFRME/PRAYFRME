@@ -21,7 +21,6 @@
 ## Get in touch :coffee:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<p> <img src="https://komarev.com/ghpvc/?username=PRAYFRME&color=brightgreen&style=flat&label=PROFILE+VIEWS" alt="PRAYFRME" /> </p>
 <br />
 
 💼 Any freelance work? Do reach, [email](mailto:mhtarek@live.com) 🤗
@@ -85,6 +84,4 @@ Consider buying me a coffee or Ramen 🥺 👉👈
 ![](https://hit.yhype.me/github/profile?user_id=67306802)
 
 ## Total Profile Views:
-
 ![PRAYFRME visitor counter](https://count.getloli.com/get/@PRAYFRME?theme=rule34)
-<br/>
