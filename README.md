@@ -5,10 +5,10 @@
 
 - Cybersecurity and Data Science Enthusiast. 
 - Working on Software Development.
-- I have knowledge about Django Framework. 
-- Currently, I am doing my Bachelors in Computer Science and Engineering. 
-- I love to work with new technologies and playing with Data and AI.🤖
-- My hobbies are meeting new people from different countries, listening to music from different languages, watching Anime, reading books.
+- Have knowledge about Django Framework. 
+- Doing Bachelors in Computer Science and Engineering. 
+- Love to work with new technologies and playing with Data and AI.🤖
+- Hobbies are meeting new people from different countries, listening to music from different languages, watching Anime, reading books.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
