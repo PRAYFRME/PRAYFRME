@@ -13,12 +13,12 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-## Things I am passionate about 💁🏻‍♂️
+### Things I am passionate about 💁🏻‍♂️
 
 - Data Science, Machine Learning, Cyber Security, and AI :robot:
 - Open Source :octocat:
 
-## Get in touch :coffee:
+### Get in touch :coffee:
 [<img align="left" alt="codeSTACKr.com" width="20px" src="https://www.svgrepo.com/show/116369/earth-globe-tool.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="20px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 <p> <img src="https://komarev.com/ghpvc/?username=PRAYFRME&color=brightgreen&style=flat&label=PROFILE+VIEWS" alt="PRAYFRME" /> </p>
@@ -54,7 +54,7 @@
 ![Metrics](https://metrics.lecoq.io/PRAYFRME?template=classic&base.header=0&base.activity=0&base.community=0&base.metadata=0&languages=1&lines=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=B&achievements.secrets=true&achievements.display=compact&achievements.limit=4&config.timezone=Asia%2FDhaka&config.display=large)
 
 
-## My GitHub and Wakatime Stats 📈 
+### My GitHub and Wakatime Stats 📊 
 
 [![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRAYFRME&show_icons=true&count_private=true&include_all_commits=true&icon_color=D10000&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -71,11 +71,10 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=67306802)
 
-## Total Views:
+### Total Views 🧮
 ![PRAYFRME visitor counter](https://count.getloli.com/get/@PRAYFRME?theme=rule34)
 
 
-## Consider buying me a coffee ☕ or Ramen 🍜
+### Consider buying me a coffee ☕ or Ramen 🍜
 
 <a href="https://https://www.buymeacoffee.com/prayfrme" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
