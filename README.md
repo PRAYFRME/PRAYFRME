@@ -67,7 +67,9 @@ Consider buying me a coffee or Ramen 🥺 👉👈
 
 📈 My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats-prayfrme.vercel.app/api?username=PRAYFRME&show_icons=true&theme=gotham"alt="PRAYFRME"/>
+[![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRAYFRME)](https://github.com/anuraghazra/github-readme-stats)
+
+
   
   
 <p align = "center">
