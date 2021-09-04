@@ -16,7 +16,7 @@
 ## Things I am passionate about
 
 - Data Science, Machine Learning, Cyber Security, and AI :robot:
-- Open source :octocat:
+- Open Source :octocat:
 
 ## Get in touch :coffee:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
