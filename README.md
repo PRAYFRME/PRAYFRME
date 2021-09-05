@@ -75,7 +75,7 @@
 ![PRAYFRME visitor counter](https://count.getloli.com/get/@PRAYFRME?theme=rule34)
 
 
-### Coding Activity
+### Coding Activity 👨🏻‍💻
 
 <p align='center' >
 <img src="https://wakatime.com/share/@PRAYFRME/2ab9da89-a7bb-45a0-832a-ca604cc808f2.svg" />
