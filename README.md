@@ -1,5 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<img src="https://weather-icon.journeyad.repl.co/@dhaka?v=1" align="right">
 
   Hi, I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
 
@@ -9,6 +10,7 @@
 - Doing Bachelors in Computer Science and Engineering. 
 - Love to work with new technologies and playing with Data and AI.
 - Hobbies are meeting new people from different countries, listening to music from different languages, watching Anime, reading books.
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### Things I am passionate about 💁🏻‍♂️
