@@ -29,7 +29,7 @@
 
 <img src="https://github.com/PRAYFRME/PRAYFRME/blob/main/DataScience.png?raw=true" alt="DataScience">
 
-### Languages and Tools ⚙
+### Technologies & Tools ⚙
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"></code>
@@ -61,6 +61,9 @@
 
 [![Tarek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PRAYFRME)](https://github.com/anuraghazra/github-readme-stats)
 
+###  My contribution streak 🔥
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PRAYFRME&theme=blood)](https://git.io/streak-stats)
  
 <p align = "center">
 <img height="200" src="https://github-profile-trophy.vercel.app/?username=PRAYFRME&theme=dracula&row=2&margin-w=5&margin-h=5&count_private=true&title=Commit,Repositories,Followers"/>
