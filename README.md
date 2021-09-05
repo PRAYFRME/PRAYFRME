@@ -78,6 +78,10 @@
 ![PRAYFRME visitor counter](https://count.getloli.com/get/@PRAYFRME?theme=rule34)
 
 
+[![Tarek's github activity graph](https://activity-graph.herokuapp.com/graph?username=PRAYFRME&theme=xcode&bg_color=FFFFFF&color=17202A&line=2ECC71&point=E74C3C)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 ### Consider buying me a coffee ☕ or Ramen 🍜
 
 <a href="https://https://www.buymeacoffee.com/prayfrme" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
