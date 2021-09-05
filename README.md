@@ -9,28 +9,18 @@
 - Doing Bachelors in Computer Science and Engineering. 
 - Love to work with new technologies and playing with Data and AI.
 - Hobbies are meeting new people from different countries, listening to music from different languages, watching Anime, reading books.
-
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
 
 ### Things I am passionate about 💁🏻‍♂️
 
 - Data Science, Machine Learning, Cyber Security, and AI :robot:
 - Open Source :octocat:
 
-### Get in touch :coffee:
-[<img align="left" alt="codeSTACKr.com" width="20px" src="https://www.svgrepo.com/show/116369/earth-globe-tool.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="20px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
-<p> <img src="https://komarev.com/ghpvc/?username=PRAYFRME&color=brightgreen&style=flat&label=PROFILE+VIEWS" alt="PRAYFRME" /> </p>
+### Profile Views 🧮
+![PRAYFRME visitor counter](https://count.getloli.com/get/@PRAYFRME?theme=rule34)
 
-💼 Any freelance work? Do reach, [email](mailto:mhtarek@live.com) 🤗
-
-💬 Ask me about anything, I am happy to help. 😇
-
-<img src="https://github.com/PRAYFRME/PRAYFRME/blob/main/DataScience.png?raw=true" alt="DataScience">
 
 ### Technologies & Tools ⚙
-
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"></code>
@@ -71,9 +61,6 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=67306802)
 
-### Total Views 🧮
-![PRAYFRME visitor counter](https://count.getloli.com/get/@PRAYFRME?theme=rule34)
-
 
 ### Coding Activity 👨🏻‍💻
 
@@ -83,8 +70,16 @@
 
 [![Tarek's github activity graph](https://activity-graph.herokuapp.com/graph?username=PRAYFRME&theme=xcode&bg_color=FFFFFF&color=17202A&line=2ECC71&point=E74C3C)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<img src="https://github.com/PRAYFRME/PRAYFRME/blob/main/DataScience.png?raw=true" alt="DataScience">
 
+### Get in touch :coffee:
+[<img align="left" alt="codeSTACKr.com" width="20px" src="https://www.svgrepo.com/show/116369/earth-globe-tool.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="20px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
+<p> <img src="https://komarev.com/ghpvc/?username=PRAYFRME&color=brightgreen&style=flat&label=PROFILE+VIEWS" alt="PRAYFRME" /> </p>
 
+💼 Any freelance work? Do reach, [email](mailto:mhtarek@live.com) 🤗 
+
+💬 Ask me about anything, I am happy to help. 😇 
 ### Consider buying me a coffee ☕ or Ramen 🍜
 
 <a href="https://https://www.buymeacoffee.com/prayfrme" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
