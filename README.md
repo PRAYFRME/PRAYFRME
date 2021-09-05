@@ -50,14 +50,11 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"></code>
 
-
 ![Metrics](https://metrics.lecoq.io/PRAYFRME?template=classic&base.header=0&base.activity=0&base.community=0&base.metadata=0&languages=1&lines=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=B&achievements.secrets=true&achievements.display=compact&achievements.limit=4&config.timezone=Asia%2FDhaka&config.display=large)
-
 
 ### My GitHub and Wakatime Stats 📊 
 
 [![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRAYFRME&show_icons=true&count_private=true&include_all_commits=true&icon_color=D10000&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [![Tarek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PRAYFRME)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -77,6 +74,12 @@
 ### Total Views 🧮
 ![PRAYFRME visitor counter](https://count.getloli.com/get/@PRAYFRME?theme=rule34)
 
+
+### Coding Activity
+
+<p align='center' >
+<img src="https://wakatime.com/share/@PRAYFRME/2ab9da89-a7bb-45a0-832a-ca604cc808f2.svg" />
+</p>
 
 [![Tarek's github activity graph](https://activity-graph.herokuapp.com/graph?username=PRAYFRME&theme=xcode&bg_color=FFFFFF&color=17202A&line=2ECC71&point=E74C3C)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
