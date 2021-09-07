@@ -37,7 +37,7 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Oracle_Corporation_logo.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/en/6/6b/Redis_Logo.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"></code>
