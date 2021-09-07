@@ -52,7 +52,7 @@
 
 ###  My Contribution Streak 🔥
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PRAYFRME&theme=blood&fire=ffce00)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PRAYFRME&theme=blood&fire=EA2300)](https://git.io/streak-stats)
  
 <p align = "center">
 <img height="200" src="https://github-profile-trophy.vercel.app/?username=PRAYFRME&theme=dracula&row=2&margin-w=5&margin-h=5&count_private=true&title=Commit,Repositories,Followers"/>
