@@ -42,16 +42,15 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"></code>
 
 
-
-
 ![Metrics](https://metrics.lecoq.io/PRAYFRME?template=classic&lines=1&notable=1&notable.repositories=false&config.timezone=Asia%2FDhaka)
-
-
 
 
 ### My GitHub and Wakatime Stats 📊 
 
 [![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRAYFRME&show_icons=true&count_private=true&include_all_commits=true&icon_color=D10000&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PRAYFRME&show_icons=true&count_private=true&include_all_commits=true&icon_color=D10000&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Tarek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PRAYFRME)](https://github.com/anuraghazra/github-readme-stats)
 
