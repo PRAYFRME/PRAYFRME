@@ -69,6 +69,12 @@
 <p/>
 
 
+![Metrics](https://metrics.lecoq.io/PRAYFRME?template=classic&isocalendar=1&followup=1&lines=1&achievements=1&isocalendar.duration=half-year&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka)
+
+
+
+
+
 [website]: https://linktr.ee/PRAYFRME
 [linkedin]: https://www.linkedin.com/in/prayfrme/
 
@@ -99,4 +105,3 @@
 
 
 
-![Metrics](https://metrics.lecoq.io/PRAYFRME?template=classic&isocalendar=1&followup=1&lines=1&achievements=1&isocalendar.duration=half-year&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka)
