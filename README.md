@@ -41,7 +41,13 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"></code>
 
-![Metrics](https://metrics.lecoq.io/PRAYFRME?template=classic&base.header=0&base.activity=0&base.community=0&base.metadata=0&languages=1&lines=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=B&achievements.secrets=true&achievements.display=compact&achievements.limit=4&config.timezone=Asia%2FDhaka&config.display=large)
+
+
+
+![Metrics](https://metrics.lecoq.io/PRAYFRME?template=classic&lines=1&notable=1&notable.repositories=false&config.timezone=Asia%2FDhaka)
+
+
+
 
 ### My GitHub and Wakatime Stats 📊 
 
