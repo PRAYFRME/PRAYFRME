@@ -45,11 +45,16 @@
 ![Metrics](https://metrics.lecoq.io/PRAYFRME?template=classic&lines=1&notable=1&notable.repositories=false&config.timezone=Asia%2FDhaka)
 
 
-### My GitHub and Wakatime Stats 📊 
+### My GitHub Stats 📊 
 
-[![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRAYFRME&show_icons=true&count_private=true&include_all_commits=true&icon_color=D10000&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PRAYFRME&show_icons=true&count_private=true&include_all_commits=true&icon_color=D10000&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+   <table>
+      <tr>
+       <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=PRAYFRME&show_icons=true&count_private=true&include_all_commits=true&icon_color=D10000&show_owner=true&locale=en" alt="PRAYFRME"/> </td>
+       <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAYFRME&show_icons=true&count_private=true&include_all_commits=true&icon_color=D10000&show_owner=true&locale=en" alt="PRAYFRME"/> </td>
+     </tr>
+   </table>
+</p>
 
 
 [![Tarek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PRAYFRME)](https://github.com/anuraghazra/github-readme-stats)
@@ -58,11 +63,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PRAYFRME&theme=blood&fire=FFBA47)](https://git.io/streak-stats)
  
+
 <p align = "center">
 <img height="200" src="https://github-profile-trophy.vercel.app/?username=PRAYFRME&theme=dracula&row=2&margin-w=5&margin-h=5&count_private=true&title=MultiLanguage,Commit,Repositories,Followers,Commit,PR,Stars"/>
 <p/>
-
-
 
 
 [website]: https://linktr.ee/PRAYFRME
