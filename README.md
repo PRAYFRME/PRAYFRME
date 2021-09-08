@@ -42,7 +42,7 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"></code>
 
 
-![Metrics](https://metrics.lecoq.io/PRAYFRME?template=classic&lines=1&notable=1&notable.repositories=false&config.timezone=Asia%2FDhaka)
+
 
 
 ### My GitHub Stats 📊 
@@ -96,3 +96,7 @@
 ### Consider buying me a coffee ☕ or Ramen 🍜
 
 <a href="https://https://www.buymeacoffee.com/prayfrme" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+
+
+![Metrics](https://metrics.lecoq.io/PRAYFRME?template=classic&lines=1&notable=1&notable.repositories=false&config.timezone=Asia%2FDhaka)
