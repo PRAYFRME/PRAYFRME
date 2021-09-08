@@ -99,8 +99,4 @@
 
 
 
-![Metrics](https://metrics.lecoq.io/PRAYFRME?template=classic&lines=1&notable=1&notable.repositories=false&config.timezone=Asia%2FDhaka)
-
-
-
-ts.limit=4&projects.descriptions=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka
+![Metrics](https://metrics.lecoq.io/PRAYFRME?template=classic&isocalendar=1&followup=1&lines=1&achievements=1&isocalendar.duration=half-year&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka)
