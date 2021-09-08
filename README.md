@@ -65,7 +65,7 @@
  
 
 <p align = "center">
-<img height="200" src="https://github-profile-trophy.vercel.app/?username=PRAYFRME&theme=dracula&row=2&margin-w=5&margin-h=5&count_private=true&title=MultiLanguage,Commit,Repositories,Followers,Commit,PR,Stars"/>
+<img height="200" src="https://github-profile-trophy.vercel.app/?username=PRAYFRME&theme=dracula&row=2&margin-w=5&margin-h=5&count_private=true&title=MultiLanguage,Commit,Repositories,Followers,Commit,PR"/>
 <p/>
 
 
