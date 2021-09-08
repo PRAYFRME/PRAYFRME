@@ -100,3 +100,5 @@
 
 
 ![Metrics](https://metrics.lecoq.io/PRAYFRME?template=classic&lines=1&notable=1&notable.repositories=false&config.timezone=Asia%2FDhaka)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PRAYFRME&show_icons=true&count_private=true&include_all_commits=true&icon_color=D10000&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) 
