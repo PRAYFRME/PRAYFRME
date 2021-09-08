@@ -54,8 +54,11 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PRAYFRME&theme=blood&fire=FFBA47)](https://git.io/streak-stats)
  
 <p align = "center">
-<img height="200" src="https://github-profile-trophy.vercel.app/?username=PRAYFRME&theme=dracula&row=2&margin-w=5&margin-h=5&count_private=true&title=Commit,Repositories,Followers"/>
+<img height="200" src="https://github-profile-trophy.vercel.app/?username=PRAYFRME&theme=dracula&row=2&margin-w=5&margin-h=5&count_private=true&title=MultiLanguage,Commit,Repositories,Followers,Commit,PR,Stars"/>
 <p/>
+
+
+
 
 [website]: https://linktr.ee/PRAYFRME
 [linkedin]: https://www.linkedin.com/in/prayfrme/
