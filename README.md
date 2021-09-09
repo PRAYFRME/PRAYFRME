@@ -68,12 +68,6 @@
 ![Metrics](https://metrics.lecoq.io/PRAYFRME?template=classic&isocalendar=1&followup=1&lines=1&achievements=1&isocalendar.duration=half-year&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka)
 
 
-[website]: https://linktr.ee/PRAYFRME
-[linkedin]: https://www.linkedin.com/in/prayfrme/
-
-![](https://hit.yhype.me/github/profile?user_id=67306802)
-
-
 ### Coding Activity 👨🏻‍💻
 
 <p align='center' >
@@ -95,3 +89,9 @@
 ### Consider buying me a coffee ☕ or Ramen 🍜
 
 <a href="https://https://www.buymeacoffee.com/prayfrme" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+
+[website]: https://linktr.ee/PRAYFRME
+[linkedin]: https://www.linkedin.com/in/prayfrme/
+
+![](https://hit.yhype.me/github/profile?user_id=67306802)
