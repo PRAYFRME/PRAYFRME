@@ -81,7 +81,8 @@
 ### Get in touch :coffee:
 [<img align="left" alt="codeSTACKr.com" width="20px" src="https://www.svgrepo.com/show/116369/earth-globe-tool.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="20px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
-<p> <img src="https://komarev.com/ghpvc/?username=PRAYFRME&color=brightgreen&style=flat&label=NEW+VIEWS" alt="PRAYFRME" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=PRAYFRME&color=brightgreen&style=flat&label=NEW+VIEWS" alt="PRAYFRME" /> 
+ <img src="https://wakatime.com/badge/github/PRAYFRME/PRAYFRME.svg" alt="PRAYFRME" /> </p>
 
 💼 Any freelance work? Do reach, [email](mailto:mhtarek@live.com) 🤗 
 
@@ -95,6 +96,3 @@
 [linkedin]: https://www.linkedin.com/in/prayfrme/
 
 ![](https://hit.yhype.me/github/profile?user_id=67306802)
-
-
-[![wakatime](https://wakatime.com/badge/github/PRAYFRME/PRAYFRME.svg)](https://wakatime.com/badge/github/PRAYFRME/PRAYFRME)
