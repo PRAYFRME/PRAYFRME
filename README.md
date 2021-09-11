@@ -95,3 +95,6 @@
 [linkedin]: https://www.linkedin.com/in/prayfrme/
 
 ![](https://hit.yhype.me/github/profile?user_id=67306802)
+
+
+[![wakatime](https://wakatime.com/badge/github/PRAYFRME/PRAYFRME.svg)](https://wakatime.com/badge/github/PRAYFRME/PRAYFRME)
