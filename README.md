@@ -48,7 +48,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=PRAYFRME&show_icons=true&count_private=true&include_all_commits=true&icon_color=D10000&show_owner=true&locale=en" />
 
-[![Tarek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PRAYFRME)](https://github.com/anuraghazra/github-readme-stats)
+[![Tarek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PRAYFRME&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ###  My Contribution Streak 🔥
 
@@ -65,6 +65,7 @@
 💼 Any freelance work? Do reach, [email](mailto:mhtarek@live.com) 🤗 
 
 💬 Ask me about anything, I am happy to help. 😇 
+
 ### Consider buying me a coffee ☕ or Ramen 🍜
 
 <a href="https://www.buymeacoffee.com/prayfrme" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
