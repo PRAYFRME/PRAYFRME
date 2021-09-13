@@ -11,7 +11,7 @@
 - Love to work with new technologies and playing with Data and AI.
 - Hobbies are meeting new people from different countries, listening to music from different languages, watching Anime, reading books.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="325" />
 
 ### Things I am passionate about 💁🏻‍♂️
 
