@@ -57,7 +57,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PRAYFRME&theme=blood&fire=FFBA47)](https://git.io/streak-stats)
  
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/410907/screenshots/2044702/media/c19d0eee5490127923ca968ee333e7e5.gif?raw=true" width="325" height="300" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/410907/screenshots/2044702/media/c19d0eee5490127923ca968ee333e7e5.gif?raw=true" width="500" height="300" />
 
 ### Get in touch :coffee:
 [<img align="left" alt="codeSTACKr.com" width="20px" src="https://www.svgrepo.com/show/116369/earth-globe-tool.svg" />][website]
@@ -70,7 +70,7 @@
 
 ### Consider buying me a coffee ☕ or Ramen 🍜
 
-<a href="https://www.buymeacoffee.com/prayfrme" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/prayfrme" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="350" ></a>
 
 
 [website]: https://linktr.ee/PRAYFRME
