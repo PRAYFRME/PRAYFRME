@@ -11,7 +11,7 @@
 - Love to work with new technologies and playing with Data and AI.
 - Hobbies are meeting new people from different countries, listening to music from different languages, watching Anime, reading books.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
 
 ### Things I am passionate about 💁🏻‍♂️
 
@@ -49,6 +49,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=PRAYFRME&show_icons=true&count_private=true&include_all_commits=true&icon_color=D10000&show_owner=true&locale=en" />
 
 [![Tarek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PRAYFRME&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="right" alt="GIF" src="https://miro.medium.com/max/1400/1*VMmvImch6VU5pc2VktY1uw.gif?raw=true" width="450" height="320" />
 
 ###  My Contribution Streak 🔥
 
