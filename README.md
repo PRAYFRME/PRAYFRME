@@ -70,7 +70,7 @@
 
 ### Consider buying me a coffee ☕ or Ramen 🍜
 
-<a href="https://www.buymeacoffee.com/prayfrme" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="350" ></a>
+<a href="https://www.buymeacoffee.com/prayfrme" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 [website]: https://linktr.ee/PRAYFRME
