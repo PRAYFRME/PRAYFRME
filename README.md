@@ -51,7 +51,7 @@
 [![Tarek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PRAYFRME&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/1400/1*VMmvImch6VU5pc2VktY1uw.gif?raw=true" width="350" height="300" />
+<img align="right" alt="GIF" src="https://miro.medium.com/max/1400/1*VMmvImch6VU5pc2VktY1uw.gif?raw=true" width="325" height="300" />
 
 ###  My Contribution Streak 🔥
 
