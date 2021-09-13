@@ -46,7 +46,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=PRAYFRME&show_icons=true&count_private=true&include_all_commits=true&icon_color=D10000&show_owner=true&locale=en" />
 
 
-<img align="right" src="https://metrics.lecoq.io/PRAYFRME?template=classic&base.activity=0&base.community=0&base.metadata=0&languages=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka" width="350" />
+<img align="right" src="https://metrics.lecoq.io/PRAYFRME?template=classic&base.activity=0&base.community=0&base.metadata=0&languages=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka" width="340" />
 
 
 [![Tarek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PRAYFRME)](https://github.com/anuraghazra/github-readme-stats)
