@@ -65,8 +65,8 @@
 [<img align="left" alt="codeSTACKr.com" width="20px" src="https://www.svgrepo.com/show/116369/earth-globe-tool.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="20px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 <p> 
-  <img href="https://www.buymeacoffee.com/prayfrme" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" width="74" /> 
   <img src="https://komarev.com/ghpvc/?username=PRAYFRME&color=brightgreen&style=flat&label=NEW+VIEWS" alt="PRAYFRME" /> 
+  <img href="https://www.buymeacoffee.com/prayfrme" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" width="74" /> 
 </p>
 
 [website]: https://linktr.ee/PRAYFRME
