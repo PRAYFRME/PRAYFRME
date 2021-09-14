@@ -42,7 +42,7 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"></code>
 
 
-<img align="right" width="325" src="https://metrics.lecoq.io/PRAYFRME?template=classic&base.activity=0&base.community=0&base.metadata=0&languages=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka"  />
+<img align="right" width="325" src="https://metrics.lecoq.io/PRAYFRME?template=classic&base.activity=0&base.community=0&base.metadata=0&languages=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka" />
 
 
 ### My GitHub Stats 📊 
@@ -64,8 +64,9 @@
 
 [<img align="left" alt="codeSTACKr.com" width="20px" src="https://www.svgrepo.com/show/116369/earth-globe-tool.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="20px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
-<a <img href="https://www.buymeacoffee.com/prayfrme" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" width="74"></a>
-<a <img src="https://komarev.com/ghpvc/?username=PRAYFRME&color=brightgreen&style=flat&label=NEW+VIEWS" alt="PRAYFRME" ></a>
+<a href="https://www.buymeacoffee.com/prayfrme" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" width="74" ></a>
+
+<img src="https://komarev.com/ghpvc/?username=PRAYFRME&color=brightgreen&style=flat&label=NEW+VIEWS" alt="PRAYFRME"/>
 
 [website]: https://linktr.ee/PRAYFRME
 [linkedin]: https://www.linkedin.com/in/prayfrme/
