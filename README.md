@@ -62,9 +62,9 @@
 
 <h2>Get in Touch<img align="center" src="https://github.com/PRAYFRME/PRAYFRME/blob/main/GIF/Handshake.gif" height="33px" /></h2>
 
-[<img align="left" alt="codeSTACKr.com" width="20px" src="https://www.svgrepo.com/show/116369/earth-globe-tool.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="20px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
-<a href="https://www.buymeacoffee.com/prayfrme" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" width="74" ></a>
+[<img align="left" alt="codeSTACKr.com" width="30px" src="https://www.svgrepo.com/show/116369/earth-globe-tool.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
+<a href="https://www.buymeacoffee.com/prayfrme" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" width="110" ></a>
 
 <img src="https://komarev.com/ghpvc/?username=PRAYFRME&color=brightgreen&style=flat&label=NEW+VIEWS" alt="PRAYFRME"/>
 
