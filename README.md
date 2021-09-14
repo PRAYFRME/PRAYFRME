@@ -8,7 +8,7 @@
 - Working on Software Development.
 - Have knowledge about Django Framework. 
 - Doing Bachelors in Computer Science and Engineering. 
-- Love to work with new technologies and playing with Data and AI.
+- Love to work with new technologies, and playing with Data, AI.
 - Hobbies are meeting new people from different countries, listening to music from different languages, watching Anime, reading books.
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif?raw=true" width="500" height="325" />
