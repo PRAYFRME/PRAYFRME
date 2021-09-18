@@ -5,7 +5,7 @@
 
 <img src="https://weather-icon.journeyad.repl.co/@dhaka?v=1" align="right">
 
-  Hi, I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
+I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
 
 - Cybersecurity and Data Science Enthusiast. 
 - Working on Software Development.
