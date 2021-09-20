@@ -40,7 +40,7 @@ I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"></code>
-<code><img height="30" src="https://github.com/PRAYFRME/PRAYFRME/blob/main/GIF/AutoCAD.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/PRAYFRME/PRAYFRME/efb5e6885ebb01baefff033a12f503956c2f4e7f/GIF/AutoCAD.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"></code>
 
 
