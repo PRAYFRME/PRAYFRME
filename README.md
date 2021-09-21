@@ -34,7 +34,7 @@ I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
-<code><img height="30" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"></code>
+<code><img height="30" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg"></code>
 <code><img height="30" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/en/6/6b/Redis_Logo.svg"></code>
