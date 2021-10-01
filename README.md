@@ -74,3 +74,6 @@ I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
 [linkedin]: https://www.linkedin.com/in/prayfrme/
 
 ![](https://hit.yhype.me/github/profile?user_id=67306802)
+
+
+<img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
