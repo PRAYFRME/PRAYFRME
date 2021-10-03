@@ -66,7 +66,7 @@ I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
 [<img align="left" alt="codeSTACKr.com" width="31px" src="https://www.svgrepo.com/show/116369/earth-globe-tool.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="31px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 <a href="https://www.buymeacoffee.com/prayfrme" target="_blank"><img align="left" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" width="110" ></a>
-<img align="left" width="185px" src="https://komarev.com/ghpvc/?username=PRAYFRME&color=DE002D&style=flat&label=NEW+VIEWS" alt="PRAYFRME"/>
+<img align="left" width="185px" src="https://komarev.com/ghpvc/?username=PRAYFRME&color=C70028&style=flat&label=NEW+VIEWS" alt="PRAYFRME"/>
 
 [website]: https://linktr.ee/PRAYFRME
 [linkedin]: https://www.linkedin.com/in/prayfrme/
