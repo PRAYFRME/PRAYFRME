@@ -54,7 +54,7 @@ I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
 [![Tarek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PRAYFRME&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img align="right" alt="GIF" src="https://github.com/PRAYFRME/PRAYFRME/blob/main/GIF/working.gif?raw=true" width="325" height="300" />
+<img align="right" alt="GIF" src="https://github.com/PRAYFRME/PRAYFRME/blob/main/GIF/working.gif?raw=true" width="315" height="300" />
 
 
 ###  My Contribution Streak 🔥
