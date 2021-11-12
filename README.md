@@ -9,7 +9,6 @@ I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
 
 - Cybersecurity and Data Science Enthusiast. 
 - Working on Software Development.
-- Have knowledge about Django Framework. 
 - Doing Bachelors in Computer Science and Engineering. 
 - Love to work with new technologies, and playing with Data, AI.
 - Hobbies are meeting new people from different countries, listening to music from different languages, watching Anime, reading books.
