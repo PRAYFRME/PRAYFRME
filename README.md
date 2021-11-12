@@ -69,6 +69,10 @@ I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
 <a href="https://www.buymeacoffee.com/prayfrme" target="_blank"><img align="left" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" width="110" ></a>
 <img align="left" width="185px" src="https://komarev.com/ghpvc/?username=PRAYFRME&color=FF0000&style=flat&label=NEW+VIEWS" alt="PRAYFRME"/>
 
+<a href="https://trackgit.com">
+<img width="155px" src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/kvwurpx2jpmnyixws9kv" alt="trackgit-views" />
+</a>
+
 [website]: https://linktr.ee/PRAYFRME
 [linkedin]: https://www.linkedin.com/in/prayfrme/
 
