@@ -25,24 +25,24 @@ I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
 
 
 ### Technologies & Tools ⚙
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"></code>
-<code><img height="30" src="https://developer.android.com/studio/images/studio-icon.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
-<code><img height="30" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg"></code>
-<code><img height="30" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/en/6/6b/Redis_Logo.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/NewTux.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/PRAYFRME/PRAYFRME/efb5e6885ebb01baefff033a12f503956c2f4e7f/GIF/AutoCAD.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"></code>
+<code><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
+<code><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"></code>
+<code><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"></code>
+<code><img height="45" src="https://developer.android.com/studio/images/studio-icon.svg"></code>
+<code><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
+<code><img height="45" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"></code>
+<code><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"></code>
+<code><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
+<code><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
+<code><img height="45" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg"></code>
+<code><img height="45" src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg"></code>
+<code><img height="45" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg"></code>
+<code><img height="45" src="https://upload.wikimedia.org/wikipedia/en/6/6b/Redis_Logo.svg"></code>
+<code><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
+<code><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"></code>
+<code><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/NewTux.svg"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/PRAYFRME/PRAYFRME/efb5e6885ebb01baefff033a12f503956c2f4e7f/GIF/AutoCAD.svg"></code>
+<code><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"></code>
 
 
 ### My GitHub Stats 📊 
