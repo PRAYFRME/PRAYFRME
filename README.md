@@ -1,9 +1,8 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Bismillah_Calligraphy1.svg" alt="Basmala calligraphy">  <img src="https://phils.design/weather-icons/images/svg/b_1_partly_cloudy.svg" width="200px" align="right">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Bismillah_Calligraphy1.svg" alt="Basmala calligraphy">  <img src="https://weather-icon.journeyad.repl.co/@dhaka?v=1" width="310px" align="right">
 
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img src="https://weather-icon.journeyad.repl.co/@dhaka?v=1" align="right">
 
 I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
 
@@ -79,7 +78,7 @@ I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
 
 
 <p align="left">
- <img align="" height='60px' src="https://raw.githubusercontent.com/PRAYFRME/PRAYFRME/main/GIF/image_processing.gif" />
+ <img align="" height='80px' src="https://phils.design/weather-icons/images/svg/b_1_partly_cloudy.svg" />
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /> <img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
- <img align="" height='60px' src="https://raw.githubusercontent.com/PRAYFRME/PRAYFRME/main/GIF/image_processing.gif" />
+ <img align="" height='80px' src="https://phils.design/weather-icons/images/svg/b_1_partly_cloudy.svg" />
 </p>
