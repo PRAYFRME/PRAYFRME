@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Bismillah_Calligraphy1.svg" alt="Basmala calligraphy">  <img src="https://weather-icon.journeyad.repl.co/@dhaka?v=1" width="300px" align="right">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Bismillah_Calligraphy1.svg" alt="Basmala calligraphy">  <img src="https://weather-icon.journeyad.repl.co/@dhaka?v=1" width="250px" align="right">
 
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
