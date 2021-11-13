@@ -40,7 +40,7 @@ I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
 <code><img height="40" src="https://raw.githubusercontent.com/PRAYFRME/PRAYFRME/efb5e6885ebb01baefff033a12f503956c2f4e7f/GIF/AutoCAD.svg"></code>
 <code><img height="40" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/PRAYFRME/PRAYFRME/ab7a4380bf14262e407046d9e36f35935fc9ff7a/GIF/redis-cube.svg"></code>
-<code><img height="40" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Oracle_Corporation_logo.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"></code>
 
