@@ -78,7 +78,7 @@ I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
 
 
 <p align="left">
- <img align="" height='80px' src="https://phils.design/weather-icons/images/svg/b_1_partly_cloudy.svg" />
+ <img align="" height='100px' src="https://phils.design/weather-icons/images/svg/b_1_partly_cloudy.svg" />
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /> <img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
- <img align="" height='80px' src="https://phils.design/weather-icons/images/svg/b_1_partly_cloudy.svg" />
+ <img align="" height='100px' src="https://phils.design/weather-icons/images/svg/b_1_partly_cloudy.svg" />
 </p>
