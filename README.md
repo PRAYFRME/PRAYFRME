@@ -33,6 +33,7 @@ I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Git_Icon.svg"></code>
