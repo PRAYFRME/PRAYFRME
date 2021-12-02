@@ -37,7 +37,7 @@ I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Git_Icon.svg"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/gist/christophermanning/4460135/raw/7278f8125f4508e096396b024304daf238e38b97/octocat.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/NewTux.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/PRAYFRME/PRAYFRME/ab7a4380bf14262e407046d9e36f35935fc9ff7a/GIF/redis-cube.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Oracle_Corporation_logo.svg"></code>
