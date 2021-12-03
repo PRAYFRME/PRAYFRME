@@ -58,6 +58,12 @@ I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
 
 
 <!--START_SECTION:waka-->
+```text
+Other    13 hrs 35 mins  █████████████████████░░░░   83.98 % 
+Python   59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Java     52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+XML      43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+```
 <!--END_SECTION:waka-->
 
 
