@@ -57,16 +57,6 @@ I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
 <img align="right" alt="GIF" src="https://github.com/PRAYFRME/PRAYFRME/blob/main/GIF/working.gif?raw=true" width="305" height="300" />
 
 
-<!--START_SECTION:waka-->
-```text
-Other    13 hrs 35 mins  █████████████████████░░░░   83.98 % 
-Python   59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-Java     52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-XML      43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-```
-<!--END_SECTION:waka-->
-
-
 ###  My Contribution Streak 🔥
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PRAYFRME&theme=blood&fire=FFBA47)](https://git.io/streak-stats)
  
