@@ -49,7 +49,7 @@ I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
 
 ### My GitHub Stats 📊 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAYFRME&show_icons=true&count_private=true&include_all_commits=true&icon_color=D10000&show_owner=true&locale=en&layout=compact" />
+<img width="350px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAYFRME&show_icons=true&count_private=true&include_all_commits=true&icon_color=D10000&show_owner=true&locale=en&layout=compact" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=PRAYFRME&show_icons=true&count_private=true&include_all_commits=true&icon_color=D10000&show_owner=true&locale=en" />
 
