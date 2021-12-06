@@ -14,7 +14,7 @@ I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif?raw=true" width="480" height="325" />
 
-### Things I am passionate about 💁🏻‍♂️
+### Things I am passionate about 🕵🏻‍♂️
 
 - Data Science, Machine Learning, Cyber Security, and AI :robot:
 - Open Source :octocat:
