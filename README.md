@@ -1,7 +1,7 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Bismillah_Calligraphy20.svg" alt="Calligraphy">  <img height="180px" src="https://weather-icon.journeyad.repl.co/@dhaka?v=1" align="right">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Bismillah_Calligraphy20.svg" alt="Calligraphy">  <img height="180px" src="https://weather-icon.journeyad.repl.co/@dhaka?v=1" align="right" alt="My Current Weather Condition">
 
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="Hey">
 
 
 I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
@@ -12,7 +12,7 @@ I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
 - Love to work with new technologies, and playing with Data, AI.
 - Hobbies are meeting new people from different countries, listening to music from different languages, watching Anime, reading books.
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif?raw=true" width="480" height="325" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif?raw=true" width="480" height="325" alt="GIF"/>
 
 ### Things I am passionate about 🕵🏻‍♂️
 
