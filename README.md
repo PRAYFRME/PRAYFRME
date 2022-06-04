@@ -1,7 +1,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Bismillah_Calligraphy20.svg" alt="Calligraphy">  <img height="180px" src="https://weather-icon.journeyad.repl.co/@dhaka?v=1" align="right" alt="My Current Weather Condition">
 
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="Hey">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="20px" alt="Hey">
 
 
 I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
