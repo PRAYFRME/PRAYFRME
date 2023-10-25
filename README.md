@@ -4,7 +4,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="20px" alt="Hey">
 
 
-I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
+I'm [Mehedi Hasan Tarek](https://github.com/PRAYFRME)
 
 - Cybersecurity and Data Science Enthusiast. 
 - Working on Software Development.
@@ -74,7 +74,7 @@ I'm [Mehedi Hasan Tarek](https://linktr.ee/PRAYFRME)
 <img width="155px" src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/kvwurpx2jpmnyixws9kv" alt="trackgit-views" />
 </a>
 
-[website]: https://linktr.ee/PRAYFRME
+[website]: https://github.com/PRAYFRME
 [linkedin]: https://www.linkedin.com/in/prayfrme/
 
 ![](https://hit.yhype.me/github/profile?user_id=67306802)
