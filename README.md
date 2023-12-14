@@ -24,8 +24,8 @@ I'm [Mehedi Hasan Tarek](https://github.com/PRAYFRME)
 
 
 ### Technologies & Tools ⚙
-<code><img height="40" src="https://raw.githubusercontent.com/PRAYFRME/PRAYFRME/0edbaf892a608e6d2fdbc07a782ce2b2bb030b3a/GIF/Dart_programming_language_logo_icon.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/PRAYFRME/PRAYFRME/0edbaf892a608e6d2fdbc07a782ce2b2bb030b3a/GIF/flutter.svg"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Dart_programming_language_logo_icon.svg"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flutter_logo.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/spyder-ide/spyder/ba9485ccb16e0e320ebad5db0af8826fddfd846c/spyder/images/light/spyder_about.svg"></code>
